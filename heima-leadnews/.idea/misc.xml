@@ -7,10 +7,9 @@
         <option value="$PROJECT_DIR$/heima-leadnews/pom.xml" />
         <option value="$PROJECT_DIR$/heima-leadnews/heima-leadnews-service/heima-leadnews-article/pom.xml" />
         <option value="$PROJECT_DIR$/heima-leadnews/heima-leadnews-gateway/heima-leadnews-wemedia-gateway/heima-leadnews-wemedia-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
-  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
